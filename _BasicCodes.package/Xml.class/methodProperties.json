@@ -1,4 +1,7 @@
 {
 	"instance" : { },
-	"class" : { }
+	"class" : {
+		"childFromXml:param2:" : "secti 8/14/2017 14:29",
+		"foundParent" : "secti 8/14/2017 17:04"
+	}
 }
